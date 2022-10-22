@@ -18,9 +18,9 @@ TOOL GUIDE :
 ------------
 First enable SMTP access in your email [Do not use your main Email ID]
 Steps to enable SMTP:
-1.LOGIN TO YOUR MAIL ID
+1.LOGIN TO YOUR MAIL ID            
 2.PRESS THE " SETTINGS " BUTTON AND CLICK " SEE ALL SETTINGS "
-3.GO TO " Forwarding and POP/IMAP " OPTION.
+3.GO TO " Forwarding and POP/IMAP " OPTION.                     
 4.ENABLE IMAP
 
 Run The Below Command before using this code :
